@@ -1,1 +1,1 @@
-Perform sentiment analysis, logistic regression, and emotion detection on tweets in regards to Bitcoin
+Performed sentiment analysis, logistic regression, and emotion detection on tweets in regards to Bitcoin
